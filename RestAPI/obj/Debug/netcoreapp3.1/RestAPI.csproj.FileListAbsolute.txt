@@ -1,0 +1,24 @@
+C:\Users\mg\Documents\Orders\Window Forms Order\RestAPI\bin\Debug\netcoreapp3.1\RestAPI.deps.json
+C:\Users\mg\Documents\Orders\Window Forms Order\RestAPI\bin\Debug\netcoreapp3.1\RestAPI.runtimeconfig.json
+C:\Users\mg\Documents\Orders\Window Forms Order\RestAPI\bin\Debug\netcoreapp3.1\RestAPI.runtimeconfig.dev.json
+C:\Users\mg\Documents\Orders\Window Forms Order\RestAPI\bin\Debug\netcoreapp3.1\RestAPI.dll
+C:\Users\mg\Documents\Orders\Window Forms Order\RestAPI\bin\Debug\netcoreapp3.1\RestAPI.pdb
+C:\Users\mg\Documents\Orders\Window Forms Order\RestAPI\obj\Debug\netcoreapp3.1\RestAPI.csprojAssemblyReference.cache
+C:\Users\mg\Documents\Orders\Window Forms Order\RestAPI\obj\Debug\netcoreapp3.1\RestAPI.AssemblyInfoInputs.cache
+C:\Users\mg\Documents\Orders\Window Forms Order\RestAPI\obj\Debug\netcoreapp3.1\RestAPI.AssemblyInfo.cs
+C:\Users\mg\Documents\Orders\Window Forms Order\RestAPI\obj\Debug\netcoreapp3.1\RestAPI.csproj.CoreCompileInputs.cache
+C:\Users\mg\Documents\Orders\Window Forms Order\RestAPI\obj\Debug\netcoreapp3.1\RestAPI.dll
+C:\Users\mg\Documents\Orders\Window Forms Order\RestAPI\obj\Debug\netcoreapp3.1\RestAPI.pdb
+C:\Users\mg\Documents\Orders\Window Forms Order\RestAPI\obj\Debug\netcoreapp3.1\RestAPI.genruntimeconfig.cache
+D:\Users\Desktop\RestAPI\bin\Debug\netcoreapp3.1\RestAPI.deps.json
+D:\Users\Desktop\RestAPI\bin\Debug\netcoreapp3.1\RestAPI.runtimeconfig.json
+D:\Users\Desktop\RestAPI\bin\Debug\netcoreapp3.1\RestAPI.runtimeconfig.dev.json
+D:\Users\Desktop\RestAPI\bin\Debug\netcoreapp3.1\RestAPI.dll
+D:\Users\Desktop\RestAPI\bin\Debug\netcoreapp3.1\RestAPI.pdb
+D:\Users\Desktop\RestAPI\obj\Debug\netcoreapp3.1\RestAPI.csprojAssemblyReference.cache
+D:\Users\Desktop\RestAPI\obj\Debug\netcoreapp3.1\RestAPI.AssemblyInfoInputs.cache
+D:\Users\Desktop\RestAPI\obj\Debug\netcoreapp3.1\RestAPI.AssemblyInfo.cs
+D:\Users\Desktop\RestAPI\obj\Debug\netcoreapp3.1\RestAPI.csproj.CoreCompileInputs.cache
+D:\Users\Desktop\RestAPI\obj\Debug\netcoreapp3.1\RestAPI.dll
+D:\Users\Desktop\RestAPI\obj\Debug\netcoreapp3.1\RestAPI.pdb
+D:\Users\Desktop\RestAPI\obj\Debug\netcoreapp3.1\RestAPI.genruntimeconfig.cache
